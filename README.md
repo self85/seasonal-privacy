@@ -22,7 +22,7 @@ The privacy policy covers:
 ## Hosting
 
 This privacy policy is hosted using GitHub Pages and is accessible at:
-`https://[your-username].github.io/seasonal-privacy/`
+`https://self85.github.io/seasonal-privacy/`
 
 ## Updates
 
@@ -42,4 +42,4 @@ For any questions about the privacy policy or the Seasonal app, please contact:
 This privacy policy is provided as part of the Seasonal app's compliance with Google Play Store requirements.
 
 ---
-Last Updated: December 20, 2023
+Last Updated: December 20, 2024
